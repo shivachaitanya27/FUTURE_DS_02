@@ -1,4 +1,4 @@
-# FUTURE_DS_02
+
 
 ## 📊 Customer Churn & Retention Analysis (Power BI)
 
@@ -85,27 +85,31 @@ The goal is to provide actionable insights that help businesses **reduce custome
 ## 📁 Dataset
 
 * Telco Customer Churn Dataset (Kaggle)
-
+  https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+ 
 ---
 
 ## 📌 Project Files
 
-* Power BI Dashboard (.pbix)
-* Dataset (CSV/Excel)
-* Screenshots of dashboard
+* Dataset (CSV/Excel) :-https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+  <img width="1441" height="813" alt="Screenshot 2026-04-14 130640" src="https://github.com/user-attachments/assets/b99e5c53-b47f-4843-a637-fea379ff4085" />
+
+  <img width="1434" height="805" alt="page no 2" src="https://github.com/user-attachments/assets/799c4ddc-612d-4e67-978b-0d0112b77cb9" />
+
+
 
 ---
 
 ## 🙏 Acknowledgment
 
-I would like to thank **Future Intern** for providing me the opportunity to work on this project as part of my internship and helping me gain hands-on experience in data analytics.
+I would like to thank **Future Interns** for providing me the opportunity to work on this project as part of my internship and helping me gain hands-on experience in data analytics.
 
 ---
 
 ## 🔗 Connect with Me
 
-* LinkedIn: [Add your LinkedIn link]
-* Portfolio: [Add your portfolio link]
+* LinkedIn:www.linkedin.com/in/shivachaitanyav
+
 
 ---
 
